@@ -2,7 +2,7 @@
 
 This folder contains the personal projects listed below. 
 
-Navigate through these projects by choosing the branch button near the top left (default branch will be 'main'). The branch with the correspoding Project Name will contain files for that project.
+Navigate through these projects by choosing the branch button near the top left (default branch will be 'main'). The branch with the corresponding Project Name will contain files for that project.
 
 | Project Name  | Main Project File |Ideas | Tools Used | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
