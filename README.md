@@ -2,7 +2,7 @@
 
 This folder contains the personal projects listed below. 
 
-Navigate through these projects by choosing the project folder at the top of this page. This folder will contain all files for that project.
+Navigate through these projects by choosing the project folder at the top of this page. This folder will contain all files pertaining to that project. If you click on a file, you will be given an option to download or view.
 
 | Project Folder Name  | Main Project File |Ideas | Tools Used | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
